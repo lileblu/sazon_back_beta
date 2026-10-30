@@ -98,6 +98,8 @@ public class SugerenciaServicio {
         sb.append(", idDespensa=").append(idDespensa);
         sb.append('}');
         return sb.toString();
+
+        
     }
 
     
